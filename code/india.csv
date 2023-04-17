@@ -1,0 +1,17 @@
+,Country name,Year,Life Ladder,Log GDP per capita,Social support,Healthy life expectancy at birth,Freedom to make life choices,Generosity,Perceptions of corruption,Standard error of ladder score,upperwhisker,lowerwhisker,Ladder score in Dystopia,Explained by: Log GDP per capita,Explained by: Social support,Explained by: Healthy life expectancy,Explained by: Freedom to make life choices,Explained by: Generosity,Explained by: Perceptions of corruption
+0,India,2006,5.348,8.145,0.707,55.72,0.774,0.0,0.855,,,,,,,,,,
+1,India,2007,5.027,8.204,0.569,56.14,0.729,-0.051,0.862,,,,,,,,,,
+2,India,2008,5.146,8.22,0.684,56.56,0.756,-0.072,0.891,,,,,,,,,,
+3,India,2009,4.522,8.281,0.653,56.98,0.679,-0.026,0.895,,,,,,,,,,
+4,India,2010,4.989,8.349,0.605,57.4,0.783,0.058,0.863,,,,,,,,,,
+5,India,2011,4.635,8.387,0.553,57.7,0.838,-0.038,0.908,,,,,,,,,,
+6,India,2012,4.72,8.428,0.511,58.0,0.609,0.067,0.83,,,,,,,,,,
+7,India,2013,4.428,8.478,0.553,58.3,0.74,0.084,0.832,,,,,,,,,,
+8,India,2014,4.424,8.538,0.621,58.6,0.809,-0.026,0.832,,,,,,,,,,
+9,India,2015,4.342,8.604,0.61,58.9,0.777,-0.005,0.776,,,,,,,,,,
+10,India,2016,4.179,8.673,0.614,59.3,0.82,0.046,0.765,,,,,,,,,,
+11,India,2017,4.046,8.73,0.607,59.7,0.886,-0.042,0.781,,,,,,,,,,
+12,India,2018,3.818,8.779,0.638,60.1,0.89,0.085,0.805,,,,,,,,,,
+13,India,2019,3.249,8.818,0.561,60.5,0.876,0.112,0.752,,,,,,,,,,
+14,India,2020,4.225,8.703,0.617,60.9,0.906,0.075,0.78,,,,,,,,,,
+15,India,2021,3.819,8.755,0.603,60.633,0.893,0.089,0.774,0.026,3.869,3.769,2.43,0.741,0.316,0.383,0.622,0.246,0.106
